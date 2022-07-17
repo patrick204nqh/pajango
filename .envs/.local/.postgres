@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=pajango
+POSTGRES_USER=lFEWQMzuPDyDjghQrtZGSGYcNUYHDfJJ
+POSTGRES_PASSWORD=cDHzmbmZZsTdnGiV9z93Xjd5NM5y3PG5389SyJnAWhzZqhipUaPymTAV5MrUNj7O
